@@ -1,0 +1,8 @@
+C:\Users\Dell\weatherapp>npm install -g eas-cli
+
+C:\Users\Dell\weatherapp>eas login
+
+C:\Users\Dell\weatherapp>eas build:configure
+
+C:\Users\Dell\weatherapp>eas build --platform android
+
